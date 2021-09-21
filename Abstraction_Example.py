@@ -1,5 +1,5 @@
 from abc import ABC, abstractmethod
-
+print("hello")
 
 class Computer(ABC):
     @abstractmethod

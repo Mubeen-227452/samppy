@@ -1,6 +1,7 @@
 from abc import ABC, abstractmethod
 print("hello")
-print("ji")
+print("ji* 2")
+
 class Computer(ABC):
     @abstractmethod
     def process(self):
